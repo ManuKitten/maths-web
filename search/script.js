@@ -10,4 +10,4 @@ function renderPages() {
     });
 }
 
-renderPages();
+setInterval(renderPages, 500);
