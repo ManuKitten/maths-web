@@ -20,9 +20,9 @@ h1 {
     font-family: 'ptserif-bold';
 }
 .main-header {
-    position: fixed
-    top: 0
-    width: 100%
+    position: fixed;
+    top: 0;
+    width: 100%;
     background-color: #aaaaaa;
     color: #151515;
     padding: 10px 0;
