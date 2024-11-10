@@ -1,4 +1,4 @@
-let pages = ["Counting"]
+let pages = ["Counting"];
 
 function renderPages() {
     const pagesList = document.getElementById("pagesList");
