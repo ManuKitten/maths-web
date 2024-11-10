@@ -9,3 +9,5 @@ function renderPages() {
         membersList.appendChild(listItem);
     });
 }
+
+renderPages();
