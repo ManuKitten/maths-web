@@ -2,11 +2,11 @@ let pages = ["Counting"];
 
 function renderPages() {
     const pagesList = document.getElementById("pagesList");
-    membersList.innerHTML = "";
-    members.forEach(name => {
+    pagesList.innerHTML = "";
+    pages.forEach(name => {
         const listItem = document.createElement("li");
         listItem.textContent = name;
-        membersList.appendChild(listItem);
+        pagesList.appendChild(listItem);
     });
 }
 
