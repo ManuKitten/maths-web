@@ -19,7 +19,7 @@ h1 {
     color: #151515;
     font-family: 'ptserif-bold';
 }
-.sticky-header {
+.main-header {
     position: fixed
     top: 0
     width: 100%
